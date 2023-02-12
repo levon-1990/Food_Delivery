@@ -1,0 +1,99 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+ width: 1200px;
+  margin: 0 auto;
+ margin-top: 50px;
+}
+.logo{
+    float: left;
+    width: 45px;
+    height: 45px;
+    margin-top: 10px;
+}
+.logo img{
+   width: 100%;
+}
+.logo_1{
+    float: left;
+    margin-left: 19px;
+    }
+.logo_1 img{
+    width: 80px;
+    height: 60px;
+}
+.menu{
+    float:left;
+    margin-left: 165px;
+   
+}
+.login{
+    float:right;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    padding-left: 20px;
+    position: relative;
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(22, 2, 2);
+    padding: 10px;
+}
+.menu a:hover{
+    text-decoration: underline;
+    color: rgb(37, 37, 110);
+    font-weight: bold;
+}
+.services_list {
+    display: none;
+    position:absolute;
+    padding: 10px;
+    font-weight: bold;
+    margin-left:  -60px;
+   
+}
+.services:hover > .services_list{
+display: block;
+}
+.menu_1_list{
+    display: none;
+    position:absolute;
+    padding: 10px;
+    font-weight: bold;
+    margin-left:  -25px;
+    }
+.menu_1:hover > .menu_1_list{
+    display: block;
+    }
+.login {
+    margin-right: 100px;
+    margin-top: 15px;
+   
+}
+.search{
+    float: left;
+}
+.lock{
+    float: left;
+    margin-left: 20px;
+}
+.button{
+    float: right;
+    margin-left: 20px;
+}
+.button button{
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(139, 17, 17);
+    color: rgb(233, 217, 217);
+    border:none ;
+    margin-top: -10px;
+    }
+    .clear{
+        clear: both;
+    }
