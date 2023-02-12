@@ -97,3 +97,80 @@ display: block;
     .clear{
         clear: both;
     }
+    .block_1{
+        margin-top: 70px;
+        float: left;
+        width: 50%;
+    }
+.button_1 button{
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(196, 214, 214);
+    color: rgb(209, 66, 66);
+}
+.button_1 img{
+    width: 15px;
+    padding-left: 5px;
+  }
+  .block_1_1{
+    width: 75%;
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  .block_1_1 p{
+    font-size: 60px;
+  }
+   .block_1_1 p span{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(148, 17, 17);
+  }
+  .block_1_2{
+    width: 65%;
+  }
+  .block_1_2 p{
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .block_2{
+    float:right;
+    margin-right: 69px;
+     }
+ .image_2 img{
+    width: 50px;
+    margin-top: 50px;
+ }
+ .image_clock{
+    float: left;
+ }
+.fire{
+    float: right;
+}
+.image_1{
+   width: 400px;
+}
+.button_2{
+float: left;
+margin-top: -100px;
+}
+.button_2_1{
+    float: left;
+    
+}
+.button_2_1 {
+    border-radius: 30px;
+    width: 120px;
+    height: 50px;
+    background-color: rgb(139, 17, 17);
+    color: rgb(233, 217, 217);
+    border:none ;
+}
+.button_2_2{
+    width: 120px;
+    height: 50px;
+    background-color:#fff;
+    border-radius: 30px;
+    border: none;
+}
+
