@@ -147,6 +147,7 @@ display: block;
  .image_2 img{
     width: 50px;
     margin-top: 50px;
+    border-radius: 25px 25px 25px 25px;
  }
  .image_clock{
     float: left;
@@ -319,17 +320,19 @@ padding-left: 50px;
 }
 .left_button_1 img{
     width: 25px;
-    border-radius: 100px 100px;
+    border-radius: 25px 25px 25px 25px;
     border:1px solid #fff;
     
 }
 .left_button_2 img{
     width: 25px;
     border:1px solid #fff;
+    border-radius: 25px 25px 25px 25px;
 }
 .left_button_3 img{
     width: 50px;
     border:1px solid #fff;
+    border-radius: 25px 25px 25px 25px;
 }
 .left_button_word p{
       font-size: 11px;
@@ -486,4 +489,127 @@ font-weight:bold;
           font-size: 12px;
           margin-left: 20px;
       }
-     
+      .block_5{
+        margin-top: 100px;
+        
+      }
+      .block_5_left{
+        float: left;
+        margin-left: 140px;
+      }
+      .block_5_left img{
+        height: 400px;
+        width: 270px;
+        border-radius: 50px;
+      }
+      .block_5_right{
+        float: right;
+        margin-right: 150px;
+      }
+      .block_5_right_w1{
+        color: rgb(87, 4, 4);
+       word-spacing: 10px;
+       letter-spacing: 2px;
+      }
+      .block_5_right_w2{
+        font-size: 30px;
+        font-weight: bold;
+      }
+      .block_5_right_w3{
+        color: rgb(5, 5, 78);
+        font-weight: bold;
+      }
+      .block_5_right_button {
+        margin-top: 50px;
+        width: 160px;
+        height: 50px;
+        border-radius: 20px;
+      }
+      .block_5_right_button img{
+        width: 35px;
+        border-radius: 25px 25px 25px 25px;
+        float: left;
+        
+      }
+      .block_5_right_w4{
+        
+        padding-top: -15px;
+        font-size: 14px;
+        font-weight: bold;
+        width: 150px;
+        height: 10px;
+      }
+      .block_5_right_w5{
+        width: 150px;
+        margin-left: 45px;
+        font-size: 10px;
+        color: rgb(89, 175, 149);
+      }
+      .star_1{
+        font-size: 12px;
+      }
+      .block_5_left_button img{
+        width: 30px;
+        padding-top: -30px;
+      }
+      .block_5_left_button {
+        width: 180px;
+        height: 90px;
+        border-radius: 25px 25px;
+        float: left;
+        margin-top: 300px;
+        margin-left: -150px;
+        border: 1px solid #fff;
+        background-color: #fff;
+        padding-bottom:  20px; 
+      }
+      .block_5_left_button p{
+        width: 180px;
+        height: 5px;
+        padding-top: -20px;
+        text-align: center;
+        font-size: 14px;
+        font-weight: bold;
+        padding-bottom: 10px;
+      }
+     .left_img_1{
+        width: 40px;
+        height: 40px;
+        float: left;
+        margin-left:30px;
+     }
+     .left_img_1 img{
+        border-radius: 50% ;
+     }
+     .left_img_2{
+        width: 40px;
+        height: 40px;
+        float: left;
+        margin-left: -20px;
+     }
+     .left_img_2 img{
+        border-radius: 50% ;
+     }
+     .left_img_3{
+        float: left;
+        margin-left: -20px;
+     }
+     .left_img_3 img{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+     }
+     .left_img_4 p{
+        width: 35px;
+        height: 35px;
+        background-color: red;
+        border-radius: 50%;
+       float:left;
+       margin-top: -2px;
+       margin-left:-10px;
+       padding-top: 10px;
+       
+     }
+     .block_6{
+        margin-top: 150px;
+     }
